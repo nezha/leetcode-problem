@@ -33,9 +33,4 @@ public class Problem20 {
         }
         return stack.isEmpty();
     }
-
-    public static void main(String[] args) {
-        Problem20 problem20 = new Problem20();
-        problem20.isValid("([)]");
-    }
 }
